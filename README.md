@@ -5,7 +5,7 @@
  This project is an interactive web application that involves receiving an input from the user (number) and returning a list of values displayed.
 
 
-_Live demo: [GH-pages](https://object-ions.github.io/beepboop/)_
+_Live demo: [GH-pages](https://switchcasestudio.github.io/beepboop/)_
 
 ## Technologies Used
 
